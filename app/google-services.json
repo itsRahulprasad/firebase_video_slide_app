@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1094956687989",
+    "firebase_url": "https://vslide.firebaseio.com",
+    "project_id": "vslide",
+    "storage_bucket": "vslide.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094956687989:android:f5e64c99e8d27793484e3c",
+        "android_client_info": {
+          "package_name": "com.example.vslide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094956687989-rigfnu4q9dajm8ttra82lb18m1fiavll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdzsGvX3OBsbIazwURy3cp8qy6GfNqMc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094956687989-rigfnu4q9dajm8ttra82lb18m1fiavll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
